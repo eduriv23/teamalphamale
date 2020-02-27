@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+
+            <title>Team Alpha Male</title>
+            <link href="styles.css" rel="stylesheet" type="text/css" />
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        </head>
+
+        <body>
+
+
+
+            <header>
+                 <!--social media bar-->
+                <footer class="topfooter">
+                    <p style="margin-top: 15px; margin-left: 15px;">Call Us Today: (916) 444-3357 | trainwithtam@teamalphamale.com</p>
+
+                    <div class="wrapper">
+                    <a target="_blank" href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                    <a target="_blank" href="#"><i class="fa fa-2x fa-instagram"></i></a>
+                    <a target="_blank" href="#"><i class="fa fa-2x fa-twitter-square"></i>
+                 </div></a>
+
+                </footer>
+
+                 <!--navigation-->
+                <nav>
+                    <a href="#"><img class="alphaLogo" style="margin-left:15px;" src="images/tamLogo.png" /></a>
+
+                    <a href="#"><img style="width:140px; height:35px; margin-bottom: 8px;" src="images/mlaLogo.jpg" /></a>
+
+                    <ul>
+                        <li><a href="#">TRAIN WITH TAM</a></li>
+                        <li><a href="#">SHOP</a></li>
+                        <li><a href="#">CONTACT</a></li>
+                        <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+
+                     </ul>
+
+                </nav>
+
+            </header>
+
+            <!--main image of team alpha male-->
+            <img class="mainImage" src="images/alphaMale.jpg" alt=alpha male fighters />
+
+            <!--page info section-->
+            <div class="pageIntro">
+                <p class="infoParagraph">Team Alpha Male is more than a team, we are the culmination of dominance,
+                intelligence, grit, and loyalty. We are committed to forging one another into
+                MMA’s most dominant athletes. Promotions across the U.S. and the world recognize
+                TAM as one of the most prevailing teams in MMA, winning belts and continuously
+                generating quality fighters.</p>
+            </div>
+
+            <!--aside element(did not add content because the website did not have an aside section)-->
+            <aside>
+
+            </aside>
+
+            <!--products and services section-->
+            <section>
+                <article class="articleOne">
+                    <a href="#"><img class="center" style="margin-top: 55px;" src="images/fistLogo.jpg" /></a>
+                    <a href="#"><h1 style="text-align: center;">TRAIN WITH TAM</h1></a>
+                    <p style="text-align: center; margin-left: 25px; margin-right: 25px; font-size: 13px;">Come train with TAM at our headquarters in Sacramento, CA.
+                    We can provide lodging and transportation in addition to your training!</p>
+                </article>
+
+                <article class="articleTwo">
+                     <a href="#"><img class="center" style="margin-top: 55px;" src="images/cartLogo.jpg" /></a>
+                     <a href="#"><h1 style="text-align: center;">OFFICIAL TAM GEAR</h1></a>
+                     <p style="text-align: center; margin-left: 25px; margin-right: 25px; font-size: 13px;">Represent Team Alpha Male! Get your official TAM gear
+                     online and join us as we dominate the competition.</p>
+                </article>
+            </section>
+
+            <!--Team photo and team info-->
+            <div class="groupPhoto">
+
+               <h2 style="font-size: 16px; color: white; text-align: center;">THE STRONGEST TEAMS ARE THOSE BUILT WITH SUPPORT AND PARTNERSHIPS.</h2>
+               <a href="#"><img class="center" src="images/MLAwhite.png" /></a>
+               <p class="secondInfoParagraph">A huge thank you goes out to Mountain Lion Aviation. With their help, our athletes can quickly, easily, and safely travel to their fights and engagements,
+               keeping them rested and ready to perform. You can learn more about Mountain Lion Aviation here.</p>
+
+                <img class="mtnLionAviationPhoto" src="images/mountainLionAviation.jpg" />
+
+            </div>
+
+
+            <!--InstaPhotos-->
+            <div class="instaPhotos">
+
+                <h2 style="font-size: 16px; text-align: center;">DONT JUST FOLLOW US, JOIN US.</h2>
+
+                <!--row1-->
+                <img class ="firstPhoto" src="images/instaPhoto1.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto2.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto3.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto4.jpg" />
+
+                <!--row2-->
+                <img class ="firstPhoto" src="images/instaPhoto5.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto6.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto7.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto8.jpg"
+
+                <!--row3-->
+                <img class ="firstPhoto" src="images/instaPhoto9.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto10.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto11.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto12.jpg" />
+
+                <!--row4-->
+                <img class ="firstPhoto" src="images/instaPhoto13.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto14.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto15.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto16.jpg" />
+
+                <!--row5-->
+                <img class ="firstPhoto" src="images/instaPhoto17.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto18.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto19.jpg" />
+                <img class ="instaLeftMargin" src="images/instaPhoto20.jpg" />
+
+
+                <div style="text-align: center;">
+                    <a href="#"><button id="firstButton" type="button">Load More...</button></a>
+                    <a href="#"><button id="secondButton" type="button">Follow on Instagram</button></a>
+
+                </div>
+
+            </div>
+
+            <!--bottom navigation-->
+            <nav class="bottomNav">
+                <div class="navdiv1">
+                    <p style="text-align: center; font-family: helvetica; font-size: 11px; color: white; margin-top: 45px;">SITE MENU</p>
+                    <br />
+
+                    <a href="#">HOME</a>
+                    <a href="#">TRAIN WITH TAM</a>
+                    <a href="#">SHOP</a>
+                    <a href="#">CONTACT</a>    <br />
+
+                    <a href="#">TRAINING SCHEDULE</a>
+                    <a href="#">MY ACCOUNT</a>
+                    <a href="#">CART</a>        <br />
+
+                    <a href="#">TERMS, CONDITIONS + PRIVACY POLICY</a>
+
+                </div>
+
+                <div class="navdiv3">
+                    <p style="text-align: center; font-family: helvetica; font-size: 11px; color: white; margin-top: 45px;">TAM HEADQUARTERS</p>
+                    <p>Team Alpha Male</p>
+                    <p>Urijah Faber's Ultimate Fitness</p>
+                    <p>6700 Folsom Blvd,</p>
+                    <p>Sacramento, CA 95819</p>
+                </div>
+
+            </nav>
+
+            <!--bottom footer-->
+            <footer class="bottomFooter">
+                <p style="font-size:11px; text-align: center; color: white;">Copyright 2018 Team Alpha Male | Built by ADITUM</p>
+
+                <div class="wrapper">
+                    <a target="_blank" href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                    <a target="_blank" href="#"><i class="fa fa-2x fa-instagram"></i></a>
+                    <a target="_blank" href="#"><i class="fa fa-2x fa-twitter-square"></i>
+                 </div></a>
+            </footer>
+
+        </body>
